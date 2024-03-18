@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Dependency directories
+venv/
+env/
+node_modules/
+
+# Compiled Python files
+*.pyc
+
+# Local development files
+.DS_Store
+.env
+myenv
+
+# Streamlit-specific files
+.streamlit/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
